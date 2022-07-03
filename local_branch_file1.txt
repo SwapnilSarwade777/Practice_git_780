@@ -1,2 +1,2 @@
 This is local branch 1 file
-This is 2nd line in local_branch_file git local branch
+This is 2nd line in local_branch_file from git remote branch
