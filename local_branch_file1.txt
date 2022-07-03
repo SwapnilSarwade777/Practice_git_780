@@ -1,1 +1,2 @@
 This is local branch 1 file
+This is 2nd line in local_branch_file
