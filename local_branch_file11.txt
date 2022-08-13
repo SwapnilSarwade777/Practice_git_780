@@ -1,1 +1,2 @@
 This is local branch 1 file
+This is second line from remote server branch.
