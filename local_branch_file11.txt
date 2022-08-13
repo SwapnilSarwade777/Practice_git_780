@@ -1,5 +1,5 @@
 This is local branch 1 file
-************************local
+************************Server
 New line added from my side
 This is the third line from remote server branch.
 This is the Fourth line from remote server branch.
