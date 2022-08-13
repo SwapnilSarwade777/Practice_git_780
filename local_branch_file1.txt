@@ -1,0 +1,2 @@
+This is local branch 1 file
+Added new line from remote branch at 2nd position
