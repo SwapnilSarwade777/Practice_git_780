@@ -1,5 +1,7 @@
 This is local branch 1 file
-This is second line from remote server branch.
+************************local
+New line added from my side
 This is the third line from remote server branch.
 This is the Fourth line from remote server branch.
 This is the Fifth line from remote server branch.
+This is the sixth line from local branch.
